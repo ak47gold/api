@@ -1,16 +1,18 @@
-[
-  {
-    "id": "ghost-whey-x-chips-ahoy",
-    "name": "Ghost Whey X Chips Ahoy",
-    "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-    "price": "$39.99",
-    "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
-  },
-  {
-    "id": "ghost-whey-vegan",
-    "name": "GHOST® Vegan Protein",
-    "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-    "price": "$49.99",
-    "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AK 15",
+      "details": "The 7.62 mm AK-15 rifle, based on the AK-12 model, is a next-generation personal weapon for the special forces, providing improved combat performance, versatility, accuracy, and precision.",
+      "price": "$",
+      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+    },
+    {
+      "id": 2,
+      "name": "AK 19",
+      "details": "AK-19 is chambered for 5.56x45 round, one of the most popular rifle rounds in the world, which is currently used by NATO countries. Consequently, this new rifle was developed specifically for the export market.\n\nAK-19 is based on AK-12, which was accepted into service by the Russian Armed Forces in 2018. AK-19 has a Picatinny rail, a new collapsible folding stock, improved aperture sight, and a quick-detachable suppressor.",
+      "price": "$",
+      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+    }
+  ]
+}
