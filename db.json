@@ -1,18 +1,11 @@
-[
-  {
-    "id": "ak-15",
-    "name": "AK 15",
-    "details": "The 7.62 mm AK-15 rifle, based on the AK-12 model, is a next-generation personal weapon for the special forces, providing improved combat performance, versatility, accuracy, and precision.",
-    "price": "$",
-    "image": "https://mpetry.com.br/fake-api/ak15.jpg",
-    "video": "https://mpetry.com.br/fake-api/ak15.mp4"
-  },
-  {
-    "id": "ak-19",
-    "name": "AK 19",
-    "details": "AK-19 is chambered for 5.56x45 round, one of the most popular rifle rounds in the world, which is currently used by NATO countries. Consequently, this new rifle was developed specifically for the export market.\n\nAK-19 is based on AK-12, which was accepted into service by the Russian Armed Forces in 2018. AK-19 has a Picatinny rail, a new collapsible folding stock, improved aperture sight, and a quick-detachable suppressor.",
-    "price": "$",
-    "image": "https://mpetry.com.br/fake-api/ak19.jpg",
-    "video": "https://mpetry.com.br/fake-api/ak19.mp4"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
