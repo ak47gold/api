@@ -10,7 +10,7 @@
       "price": "$9999.99",
       "image": "https://mpetry.com.br/fake-api/ak15.png",
       "video": "https://mpetry.com.br/fake-api/ak15.mp4",
-      "modelo": "ak15.glb"
+      "modelo": "https://developers.arcgis.com/javascript/latest/sample-code/import-gltf/live/tent.glb"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "price": "$9999.99",
       "image": "https://mpetry.com.br/fake-api/ak19.png",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "ak12.glb"
+      "modelo": "https://developers.arcgis.com/javascript/latest/sample-code/import-gltf/live/tent.glb"
     }
   ]
 }
