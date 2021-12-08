@@ -35,6 +35,18 @@
       "image": "https://mpetry.com.br/fake-api/ak12.png",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
       "modelo": "/ak12.glb"
+    },
+    {
+      "id": 3,
+      "name": "AK 103",
+      "details": "The 7.62 mm AK103 is an evolution of the Russian Army standard-issue AK74M, designed to replace obsolete rifles chambered in 7.62 mm. It is a modern, reliable, and highly effective combat firearm.",
+      "caliber": "7.62",
+      "mass": "3.6",
+      "magazine": "30",
+      "price": "$9999.99",
+      "image": "https://mpetry.com.br/fake-api/ak103.png",
+      "video": "https://mpetry.com.br/fake-api/ak19.mp4",
+      "modelo": "/ak103.glb"
     }
   ]
 }
