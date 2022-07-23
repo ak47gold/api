@@ -9,6 +9,7 @@
       "magazine": "30",
       "price": "$9999.99",
       "image": "https://mpetry.com.br/fake-api/cloud.jpg",
+      "logo": "https://mpetry.com.br/fake-api/cb-logo.png",
       "video": "https://mpetry.com.br/fake-api/ak15.mp4",
       "modelo": "/cloud.glb"
     },
@@ -21,6 +22,7 @@
       "magazine": "30",
       "price": "$9999.99",
       "image": "https://mpetry.com.br/fake-api/desk.jpg",
+      "logo": "https://mpetry.com.br/fake-api/ds-logo.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
       "modelo": "/ak19.glb"
     },
@@ -33,6 +35,7 @@
       "magazine": "30",
       "price": "$9999.99",
       "image": "https://mpetry.com.br/fake-api/isav.jpg",
+      "logo": "https://mpetry.com.br/fake-api/isav-logo.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
       "modelo": "/ak12.glb"
     }
