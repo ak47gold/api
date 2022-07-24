@@ -21,7 +21,7 @@
       "extra": "",
       "image": "https://mpetry.com.br/fake-api/desk.jpg",
       "logo": "https://mpetry.com.br/fake-api/ds-logo.svg",
-      "video": "https://mpetry.com.br/fake-api/ak19.mp4",
+      "video": "",
       "modelo": "/ak19.glb"
     },
     {
@@ -33,7 +33,7 @@
       "extra": "",
       "image": "https://mpetry.com.br/fake-api/isav.jpg",
       "logo": "https://mpetry.com.br/fake-api/isav-logo.svg",
-      "video": "https://mpetry.com.br/fake-api/ak19.mp4",
+      "video": "",
       "modelo": "/ak12.glb"
     }
   ]
