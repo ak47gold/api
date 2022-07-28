@@ -35,6 +35,18 @@
       "logo": "https://mpetry.com.br/fake-api/isav-logo.png",
       "video": "",
       "modelo": "/isav.glb"
+    },
+    {
+      "id": 3,
+      "name": "UK Hosted Gitlab",
+      "details": "details",
+      "elevator": "Elevator Pitch",
+      "description": "UK Hosted Gitlab Description",
+      "extra": "",
+      "image": "https://mpetry.com.br/fake-api/isav.jpg",
+      "logo": "https://mpetry.com.br/fake-api/isav-logo.png",
+      "video": "",
+      "modelo": "/isav.glb"
     }
   ]
 }
