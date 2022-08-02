@@ -10,7 +10,19 @@
       "image": "https://mpetry.com.br/fake-api/cloud.jpg",
       "logo": "https://mpetry.com.br/fake-api/cb-logo.png",
       "video": "https://www.youtube.com/embed/jfq16XN6Fb8",
-      "modelo": "/cloud.glb"
+      "modelo": "/cloud.glb",
+      "lista": [
+        "Hot Desking gives your users the flexibility to choose when and where they work in the office.",
+        "Desk Reservations allow your staff to reserve a desk up to 4 weeks in advance.",
+        "Permanent Desk Assignments allows certain staff members to be assigned a permanent seat in the office as well as removing it from the pool of available desks for other users.",
+        "Unused Desk Release ensures that desks booked but not checked-in and used within a set period of time will be released back into the pool for others to book.",
+        "Geo-Fencing inside the office allows different departments to be grouped to particular desks and restricts booking to only those with the correct permissions.",
+        "Office Maps display an interactive map of your office space so that users can easily identify what desk they have booked and understand the office layout.",
+        "Mobile Application provides a portable platform that allows users to manage their existing, as well as create new bookings from anywhere in the world.",
+        "Desk Analytics provide useful metrics on office and desk utilisation, as well as more granular reports, such as user usage.",
+      ],
+      "listb": [
+      ],
     },
     {
       "id": 1,
