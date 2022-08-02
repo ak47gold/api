@@ -8,7 +8,7 @@
       "description": "Cloud Builder is a platform designed for IT departments to provision their Cloud solutions and applications with greater speed and security as well as having the control of cost visible throughout the process. Through continuous research and development, Cloud Builder is compatible with most Cloud providers, including Microsoft Azure, Amazon Web Services (AWS) and Google Cloud Platform (GCP), providing flexibility in deployments.",
       "extra": "Cloud Builder can be accessed through a web interface where the user can then select a solution from the catalogue, whether thats a pre-built configuration, or a custom-built template. You are then able to select the Cloud provider as well as any optional values, such as storage size, instance type and name. All of this can take less than a minute, and once you hit deploy, the deployment will build and be live in around 5 minutes. Cloud Builder removes the cloud knowledge gap from businesses and simplifies the way you can use the Cloud to deploy and manage your applications. Cloud Builder automates the cloud solution process, it removes the complexity of understanding the way deployments to the Cloud need to be handled, as well as saving not only time, but money. Cloud Builder has a marketplace to provision numerous solution stacks based on best practices and customer requirements.",
       "image": "https://mpetry.com.br/fake-api/cloud.jpg",
-      "logo": "https://mpetry.com.br/fake-api/cb-logo.svg",
+      "logo": "https://mpetry.com.br/fake-api/cb-logo.png",
       "video": "https://www.youtube.com/embed/jfq16XN6Fb8",
       "modelo": "/cloud.glb"
     },
@@ -20,7 +20,7 @@
       "description": "Desk Surfer is a complete enterprise solution designed to enhance and enable hybrid-working by enabling users to book their office desks in advance from anywhere in the world. Our software allows users to manage their time in the office, make desk bookings, room bookings, and more, all in a single platform. What sets our Desk Management Solution ahead of our competitors?",
       "extra": "",
       "image": "https://mpetry.com.br/fake-api/desk.jpg",
-      "logo": "https://mpetry.com.br/fake-api/ds-logo.svg",
+      "logo": "https://mpetry.com.br/fake-api/ds-logo.png",
       "video": "",
       "modelo": "/desksurfer.glb"
     },
@@ -32,7 +32,7 @@
       "description": "iSav Description",
       "extra": "",
       "image": "https://mpetry.com.br/fake-api/isav.jpg",
-      "logo": "https://mpetry.com.br/fake-api/isav-logo.svg",
+      "logo": "https://mpetry.com.br/fake-api/isav-logo.png",
       "video": "",
       "modelo": "/isav.glb"
     },
